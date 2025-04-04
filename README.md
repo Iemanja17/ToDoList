@@ -1,4 +1,4 @@
-Title and Key Idea
+Datum: 2025-04-04
 
 Title: "Building a To-Do List Application in C#: From Concept to Solution"
 Key Idea: 
@@ -141,6 +141,3 @@ Validated file content to handle empty or malformed files, defaulting to an empt
 Outcome: Persistent storage that reliably saves and restores data, even in cases of user errors or file corruption.
 
 _________________________________________________________________________________
-
-
-![image](https://github.com/user-attachments/assets/23697c00-c29e-463a-b1d4-ea8ee19e0472)
